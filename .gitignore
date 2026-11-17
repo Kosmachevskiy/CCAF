@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Allow .gitignore, GitHub Pages workflow, and mobile/index.html
+!.gitignore
+!.github/
+!.github/workflows/
+!.github/workflows/pages.yml
+!mobile/
+!mobile/index.html
